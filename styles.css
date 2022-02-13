@@ -1,0 +1,48 @@
+* {
+    margin: 0;
+    padding: 0;
+}
+
+body {
+  width: 960px;
+  margin: 0 auto;
+  font-family: Impact, Haettenschweiler, 'Arial Narrow Bold', sans-serif;
+  font-size: 10em;
+}
+
+.layer {
+    height: 7%;
+}
+
+.first-sphere {
+    background-color: hsla(210, 100%, 82%, 1);
+}
+
+.second-sphere {
+    background-color: hsla(210, 100%, 86%, 1);
+}
+
+.third-sphere {
+    background-color: hsla(210, 100%, 89%, 1);
+}
+
+.fourth-sphere {
+    background-color: hsla(210, 100%, 92%, 1);
+}
+
+.fifth-sphere {
+    background-color: hsla(210, 100%, 95%, 1);
+}
+
+.ocean {
+    background-color: dodgerblue;
+    padding-bottom: 1.2em;
+    text-align: center;
+    color: hsla(210, 67%, 43%, 1);
+    text-shadow: 1px 1px hsla(210, 100%, 67%, 1);
+}
+
+.periscope {
+    position: relative;
+    bottom: 0.4em;
+}
